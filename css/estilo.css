@@ -1,0 +1,17 @@
+mark {
+	background-color: #00BFFF;
+	color: #ffffff;
+}
+
+blockquote{
+	border-left-color: #00BFFF;
+	
+}
+
+.blockquote-reverse{
+	border-right-color: #FFFF00;
+	background-color: #EEDD82;
+
+}
+
+kbd

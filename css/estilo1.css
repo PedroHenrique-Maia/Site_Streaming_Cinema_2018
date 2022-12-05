@@ -1,0 +1,27 @@
+body{
+
+background-image: url("../img/1234.jpg");
+background-size: 100% 100%;
+background-attachment: fixed;
+background-repeat: no-repeat; 
+
+}
+.oi{
+margin-top: 100px;
+
+}
+.btn-wrap{
+    position:relative;
+    text-align:center;
+}
+.btn-wrap button{
+    position:absolute;
+    z-index:1;
+    top:25%;
+    left:35%;
+    width:150px;               /* largura para o botão */
+    height:30px;              /* altura para o botão */
+    padding:0;
+    margin:-15px 0 0 -30px;   /* margem à esquerda e ao topo metade da medida do botão */
+    border:0 none;
+}
